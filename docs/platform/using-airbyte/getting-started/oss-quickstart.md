@@ -29,7 +29,7 @@ If you want to use Python to move data, Airbyte's Python library, [PyAirbyte](..
 
 ## Suggested resources {#suggested-resources}
 
-For best performance, run Airbyte on a machine with 4 or more CPUs and at least 8-GB of memory. Airbyte also runs with 2 CPUs and 8-GB of memory in low-resource mode. This guide explains how to do both. Follow this [Github discussion](https://github.com/airbytehq/airbyte/discussions/44391) to up-vote and track progress toward supporting lower resource environments.
+For best performance, run Airbyte on a machine with 8 or more CPUs and at least 8-GB of memory. Airbyte also runs with 2 CPUs and 8-GB of memory in low-resource mode. This guide explains how to do both. Follow this [Github discussion](https://github.com/airbytehq/airbyte/discussions/44391) to up-vote and track progress toward supporting lower resource environments.
 
 ## Part 1: Install Docker Desktop
 
